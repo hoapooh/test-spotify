@@ -10,5 +10,5 @@ export default defineConfig({
 		},
 		extensions: [".ts", ".json", ".tsx", ".js"],
 	},
-	base: "./",
+	base: "/",
 })
